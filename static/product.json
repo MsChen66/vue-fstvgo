@@ -1,0 +1,66 @@
+[
+    {
+    "ClassLevel": 2,
+    "ClassName":"数码家电",
+    "ClassId": "199",
+    "ParentClassId": "100",
+    "ClassListName":[
+        {
+            "ClassId": "203",
+            "ClassLevel": 3,
+            "ClassName": "日用电器",
+            "ParentClassId": "199"
+        },
+        {
+            "ClassId": "204",
+            "ClassLevel": 3,
+            "ClassName": "数码影音",
+            "ParentClassId": "199"
+        },
+        {
+           " ClassId": "205",
+            "ClassLevel": 3,
+            "ClassName": "电脑及周边",
+            "ParentClassId": "199"
+        },
+        {
+            "ClassId": "206",
+            "ClassLevel": 3,
+            "ClassName": "手机",
+            "ParentClassId": "199"
+        }
+    ]   
+    },
+    {
+        "ClassId": "207",
+        "ClassLevel": 3,
+        "ClassName": "家居生活",
+        "ParentClassId": "201",
+        "ClassListName":[
+            {
+                "ClassId": "207",
+                "ClassLevel": 3,
+                "ClassName": "家居用品",
+                "ParentClassId": "201"
+            },
+            {
+                "ClassId": "209",
+                "ClassLevel": 3,
+                "ClassName": "卧室床品",
+                "ParentClassId": "201"
+            },
+            {
+                "ClassId": "223",
+                "ClassLevel": 3,
+                "ClassName": "汽车用品",
+                "ParentClassId": "201"
+            },
+            {
+                "ClassId": "242",
+                "ClassLevel": 3,
+                "ClassName": "厨浴电器",
+                "ParentClassId": "201"
+            }
+        ]   
+        }
+]

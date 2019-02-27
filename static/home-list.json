@@ -1,0 +1,42 @@
+[
+    {
+    "id": 1,
+    "title":"午间抢购",
+    "src": "http://img.fstvgo.com/Storage/CmsImages/CmsControlImageLink/340/午间档.jpg"
+},
+{
+    "id": 2,
+    "title":"家具生活",
+    "src": "http://img.fstvgo.com/Storage/CmsImages/CmsControlImageLink/286/家居生活.jpg"
+},
+{
+    "id": 3,
+    "title":"服饰配件",
+    "src": "http://img.fstvgo.com/Storage/CmsImages/CmsControlImageLink/300/服装配饰.jpg"
+},
+{
+    "id": 4,
+    "title":"食品健康",
+    "src": "http://img.fstvgo.com/Storage/CmsImages/CmsControlImageLink/282/食品健康.jpg"
+},
+{
+    "id": 5,
+    "title":"珠宝收藏",
+    "src": "http://img.fstvgo.com/Storage/CmsImages/CmsControlImageLink/280/珠宝收藏.jpg"
+},
+{
+    "id": 6,
+    "title":"美容美发",
+    "src": "http://img.fstvgo.com/Storage/CmsImages/CmsControlImageLink/279/美容美发.jpg"
+},
+{
+    "id": 7,
+    "title":"保养健身",
+    "src": "http://img.fstvgo.com/Storage/CmsImages/CmsControlImageLink/284/保健养生.jpg"
+},
+{
+    "id": 8,
+    "title":"数码家电",
+    "src": "http://img.fstvgo.com/Storage/CmsImages/CmsControlImageLink/278/数码家电.jpg"
+}
+]
